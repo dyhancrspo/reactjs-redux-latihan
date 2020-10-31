@@ -1,6 +1,7 @@
 {
   "dataEmployee": [
     {
+      "id": 1,
       "nik": "20201005",
       "jabatan": "Aplication Owner",
       "noktp": "3275101010102020",
@@ -10,12 +11,13 @@
       "tglLahir": "20 mei 1997",
       "tempatLahir": "jakarta",
       "alamat": "bintara, bekasi barat",
-      "notelp": "082120201010",
+      "noTelp": "082120201010",
       "pendidikanTerkahir": "S1 Sistem Informasi",
       "institusiPendidikan": "Institut 20 November",
       "statusPernikahan": "Lajang"
     },
     {
+      "id": 2,
       "nik": "20201002",
       "jabatan": "Aplication Owner",
       "noktp": "3575202020201010",
@@ -31,6 +33,7 @@
       "statusPernikahan": "Lajang"
     },
     {
+      "id": 3,
       "nik": "20201001",
       "jabatan": "HC Lead",
       "noktp": "3622129755612929",
@@ -46,6 +49,7 @@
       "statusPernikahan": "Menikah"
     },
     {
+      "id": 4,
       "nik": "20201003",
       "jabatan": "Aplication Owner",
       "noktp": "3472199779916666",
