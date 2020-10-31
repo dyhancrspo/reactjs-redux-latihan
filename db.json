@@ -63,6 +63,22 @@
       "pendidikanTerkahir": "S1 Teknik Informatika",
       "institusiPendidikan": "Universitas Negeri Api",
       "statusPernikahan": "Menikah"
+    },
+    {
+      "id": 5,
+      "nik": "20201004",
+      "jabatan": "IT PMO",
+      "noktp": "3356199574913641",
+      "nama": "Ismail bin Mail",
+      "email": "mail_ismail@mail.btpns.com",
+      "password": "ayamgoreng2ringgit",
+      "tglLahir": "31 Agustus 1998",
+      "tempatLahir": "Kuala Lumpur",
+      "alamat": "setiabudi, bandung",
+      "notelp": "082232557622",
+      "pendidikanTerkahir": "S1 Teknik Informatika",
+      "institusiPendidikan": "Universitas Negeri Malaysia",
+      "statusPernikahan": "Lajang"
     }
   ]
 }
