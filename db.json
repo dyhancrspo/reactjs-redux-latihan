@@ -14,7 +14,8 @@
       "noTelp": "082120201010",
       "pendidikanTerkahir": "S1 Sistem Informasi",
       "institusiPendidikan": "Institut 20 November",
-      "statusPernikahan": "Lajang"
+      "statusPernikahan": "Lajang",
+      "roleType": 0
     },
     {
       "id": 2,
@@ -30,7 +31,8 @@
       "notelp": "088833333007",
       "pendidikanTerkahir": "S1 Sistem Informasi",
       "institusiPendidikan": "Institut Teknologi Bekasi",
-      "statusPernikahan": "Lajang"
+      "statusPernikahan": "Lajang",
+      "roleType": 0
     },
     {
       "id": 3,
@@ -46,7 +48,8 @@
       "notelp": "087783899565",
       "pendidikanTerkahir": "S1 Psikologi",
       "institusiPendidikan": "Universitas Negeri Syarif Hidayatulah",
-      "statusPernikahan": "Menikah"
+      "statusPernikahan": "Menikah",
+      "roleType": 0
     },
     {
       "id": 4,
@@ -62,7 +65,8 @@
       "notelp": "082177881818",
       "pendidikanTerkahir": "S1 Teknik Informatika",
       "institusiPendidikan": "Universitas Negeri Api",
-      "statusPernikahan": "Menikah"
+      "statusPernikahan": "Menikah",
+      "roleType": 0
     },
     {
       "id": 5,
@@ -78,7 +82,8 @@
       "notelp": "082232557622",
       "pendidikanTerkahir": "S1 Teknik Informatika",
       "institusiPendidikan": "Universitas Negeri Malaysia",
-      "statusPernikahan": "Lajang"
+      "statusPernikahan": "Lajang",
+      "roleType": 2
     }
   ]
 }
